@@ -35,11 +35,11 @@ if You want visit website . please click here -->
 ## Technologies Used
 
 
-**HTML5**: Structure and content of the website.
+- **HTML5**: Structure and content of the website.
 
-**CSS3**: Styling, layout, and responsiveness (media queries).
+- **CSS3**: Styling, layout, and responsiveness (media queries).
 
-**JavaScript**: Interactivity, including the navigation menu toggle and form validation.
+- **JavaScript**: Interactivity, including the navigation menu toggle and form validation.
 
 ### Features Overview
 
@@ -76,7 +76,7 @@ The website is optimized for different screen sizes, ensuring a consistent desig
 JavaScript (script.js)
 The script.js file provides interactivity:
 
-**Hamburger Menu:** The menu toggle functionality is implemented using JavaScript for small screens.
+- **Hamburger Menu:** The menu toggle functionality is implemented using JavaScript for small screens.
 Form Validation: JavaScript checks if required fields are filled in the contact form before submission.
 Responsiveness
 CSS Media Queries are used to make the website responsive.
@@ -84,15 +84,15 @@ The layout adjusts for screens of different sizes, with a collapsible menu and s
 Customization
 To personalize the website for your gym or fitness business, you can:
 
-Modify the Text: Change the text content in index.html for different sections (Hero, Services, Contact).
+- **Modify the Text:** Change the text content in index.html for different sections (Hero, Services, Contact).
 Update Images: Replace the images in the images/ folder with your own. Be sure to update the image paths in the HTML file.
 Change Styles: Adjust the colors, fonts, and layout in style.css to match your brand’s aesthetic.
 Add More Services: You can add additional services in the Services section by duplicating and modifying the HTML structure.
 License
 This project is open-source and free to use under the MIT License.
 
-Contributing
-Feel free to contribute by:
+## Contributing
+### Feel free to contribute by:
 
 Reporting issues.
 Submitting pull requests to improve functionality or design.

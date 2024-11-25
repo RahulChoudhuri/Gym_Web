@@ -25,9 +25,10 @@ if You want visit website . please click here -->
 ├── style.css             # CSS file for styles and layout
 ├── script.js             # JavaScript for interactivity
 ├── images/               # Folder containing images (e.g., logo, hero image)
-│   ├── logo.png
-│   ├── hero-bg.jpg
-│   └── services.jpg
+│   ├── gym-1.jpg
+│   ├── gym-2.jpg
+│   └── gym-3.jpg ...
+| 
 └── README.md             # This README file
 ```
 
